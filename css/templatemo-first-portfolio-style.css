@@ -557,7 +557,17 @@ strong {
   border-right: 1px solid var(--border-color);
   color: var(--secondary-color);
   font-weight: var(--font-weight-bold);
-  min-width: 140px;
+  min-width: 200px;
+  margin-right: 10px;
+  padding: 13px 30px;
+  display: inline-block;
+}
+
+.profile-medium-title {
+  border-right: 1px solid var(--border-color);
+  color: var(--secondary-color);
+  font-weight: var(--font-weight-bold);
+  min-width: 340px;
   margin-right: 10px;
   padding: 13px 30px;
   display: inline-block;
@@ -640,7 +650,7 @@ strong {
   position: relative;
   overflow: hidden;
   margin-bottom: 24px;
-  padding: 40px 40px 240px 40px;
+  padding: 40px 40px 40px 40px;
   transition: all 0.5s;
 }
 
