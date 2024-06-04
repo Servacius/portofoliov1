@@ -1,2 +1,2 @@
-# portofoliov1
+# portofolio v1
 Personal portofolio version 1
